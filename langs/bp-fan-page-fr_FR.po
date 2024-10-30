@@ -1,0 +1,47 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: ProfileGrid POT v1.0.0\n"
+"POT-Creation-Date: 2019-04-04 00:19+0200\n"
+"PO-Revision-Date: \n"
+"Language-Team: ProfileGrid Support <support@profilegrid.co>\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.2.1\n"
+"Last-Translator: \n"
+"Language: fr_FR\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: bp-fan-page.php:82
+msgid "Fan Page"
+msgstr "Fan page"
+
+#: bp-fan-page.php:84
+msgid "Private Fan Page"
+msgstr "Fan page privée"
+
+#: bp-fan-page.php:86
+msgid "Hidden Fan PAge"
+msgstr "Fan page cachée"
+
+#: bp-fan-page.php:98
+msgid "This is a normal group (all group members can add content)."
+msgstr "Page de groupe normale (tous les utilisateurs peuvent ajouter du contenu)."
+
+#: bp-fan-page.php:99
+msgid "This is a fan page group (only moderators and admins can add content)."
+msgstr "Fan page de groupe (seuls les modérateurs et les administrateurs peuvent y ajouter du contenu)."
+
+#: bp-fan-page.php:248
+#, php-format
+msgid "Fan Pages %s"
+msgstr "%s Fan pages"
